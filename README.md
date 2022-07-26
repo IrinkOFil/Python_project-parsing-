@@ -1,4 +1,4 @@
-# Python_project-parsing
+# Python_project_parsing
 This repo contains a Jupyter notebook with a functin based on a site search
 
 Objectives:
